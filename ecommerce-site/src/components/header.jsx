@@ -12,7 +12,7 @@ const Header = () => {
         <Link to="/">
           <img
             className="myntra_home"
-            src="images/logo1.png"
+            src="images/freelogo.png"
             alt="Myntra Home"
           />
         </Link>
